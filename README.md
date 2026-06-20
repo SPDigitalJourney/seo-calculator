@@ -12,7 +12,7 @@ View your app in AI Studio: https://ai.studio/apps/402bc42d-8196-437d-91cf-b66a8
 
 **Prerequisites:**  Node.js
 
-
+SP Digital Journey SEO App Build
 1. Install dependencies:
    `npm install`
 2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
