@@ -1,5 +1,9 @@
 {
-  "name": "react-example",
+  "name": "{
+  "name": "seo-calculator",
+  "homepage": "https://spdigitaljourney.github.io/seo-calculator/",
+  "version": "1.0.0",
+  ...",
   "private": true,
   "version": "0.0.0",
   "type": "module",
