@@ -1,0 +1,8 @@
+{
+  "name": "SP Digital Journey",
+  "description": "Local SEO and Google My Business ROI Calculator by SP Digital Journey marketing agency.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
